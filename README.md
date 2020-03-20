@@ -1,4 +1,4 @@
-# COVID-19 Volunteer Opportunities for Scientists
+# COVID-19 Volunteer/Donation Opportunities for Scientists
 
 ## Intro
 
