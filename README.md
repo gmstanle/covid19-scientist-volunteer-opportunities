@@ -16,6 +16,7 @@ endcoronavirus.org | Global | General Scientific Skills | [Link](https://www.end
 Crowdfight COVID-19 | Global | Scientific Task Coordination, General Skills | [Link](http://crowdfightcovid19.org/)
 PPE Link | United States | PPE Donations and Requests | [Link](https://ppelink.wordpress.com/ppe-donations/)
 Stanford Mutual Aid | Stanford, CA | Food, Housing, Transportation, Child Care, Tutoring, etc. | [Spreadsheet](https://docs.google.com/spreadsheets/d/1Snm8UAJTGSbLV9jz2ZS_40G_37Yg2gwMCcK8KhZg59c/edit#gid=1727309836)
+Stanford Blood Center | Stanford, CA | Disinfectant donations, other supplies | [Link](https://forms.gle/pBBDvGM45K7v5PxRA), contact kyost@stanford.edu
 Yeh Lab | SF Bay Area | Reagents, Instruments, possible volunteering | [Link](https://yehlab.stanford.edu/stanford-covid)
 COVID-19 Ask A Scientist Tool | US/Global | Science Communication | [Link](https://scipolnetwork.org/news/263128)
 
